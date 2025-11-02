@@ -59,7 +59,7 @@ macOS will remember your choice after the first launch you won’t need to do th
 1. Clone this repository in XCode
 2. CMD + R (Build & Run)
 
-Thats it! 🖱️✨
+Thats it! ✨
 
 ---
 
